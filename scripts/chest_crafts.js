@@ -1,5 +1,6 @@
 // 
 // Add recipes for Sophisticated Storage chests from Woodworks chests
+// Folder [minecraft\kubejs\server_scripts]
 //
 
 var chests = [
