@@ -1,5 +1,5 @@
 // 
-// Add recipes for Sophisticated Storage chests from Woodworks
+// Add recipes for Sophisticated Storage chests from Woodworks chests
 //
 
 var chests = [
